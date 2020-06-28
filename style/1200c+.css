@@ -1,0 +1,237 @@
+/* CSS Document */
+		header{padding-top: 30px;}
+		.fixed{ width: 1100px;}
+		#logo{width: 70px; height: 100%; margin: 5px 0 0;}
+		#store{ font-size: 17px; }
+		#store p{cursor: pointer;}
+		nav ul .bigmenu{
+			box-shadow: -3px -3px 5px rgba(255,255,255,1.00), 3px 3px 5px rgba(116,147,181,0.30);
+			}
+		.bg{display: none;}
+		.wrapper1{
+			width: 10px;
+			top: 720px;
+			margin-left:1050px;}
+		.wrapper2{	
+			width: 10px;
+			top: 720px;
+			margin-left:1050px;}
+		.wrapper3{	
+			width: 10px;
+			top: 720px;
+			margin-left:1050px;}
+		.center{width: 1100px;}
+		#ovfl{
+			margin-left: 175px;;
+			width: 906px;
+		}
+		#big{
+			width:906px;
+			height: 3520px;
+		}
+		.main{
+			width: 906px;
+			height: 100vh;	
+		}
+		.flip1, .flip2, .flip3{
+			width: 720px;
+			height: 100vh;}
+		nav {width: 90px; margin-top: 190px; display: block;}
+		nav ul .bigmenu{
+			display: block;
+			background-color: #F0F0F0;
+			margin-bottom: 16px; 
+			width: 85px; 
+			height: 40px;}
+		nav ul .bigmenu a{
+			font-size: 20px;
+			font-weight: 700;
+			transform: translate(0, 20%);
+			}
+		nav ul .bigmenu:hover{box-shadow:inset -3px -3px 5px rgba(255,255,255,1.00),inset 3px 3px 5px rgba(116,147,181,0.30);}
+		.lilmenu{
+			display: none;
+		background-color:#F0F0F0;
+		margin-top: -33px;
+		margin-left: 85px;
+		width: 85px;
+		height: 170px;
+		box-shadow: inset -3px -3px 5px rgba(255,255,255,1.00), inset 3px 3px 5px rgba(116,147,181,0.30);}
+		.lilmenu li .smallm{
+			color: rgba(0,0,0,1.00);
+			
+			padding-left:10px;
+			height: 35px;
+			padding-top: 5px;
+		}
+		.bigmenu:hover .lilmenu{display: block;}
+		.smallm:hover {box-shadow: -3px -3px 5px rgba(255,255,255,1.00), 3px 3px 5px rgba(116,147,181,0.30);}
+		.text{top: 500px; left: -10px;}
+		#rect{width:220px; height: 80px; margin-top: 9px;}
+		#lil{font-size: 42px;  width: 340px;}
+		#bigl{ font-size: 55px; width: 340px; top: 30px;}
+		#title_t{font-size: 70px;  margin-top: 190px;margin-right: -5px;}
+		#title_b{font-size: 70px;  margin-top: 190px;margin-right: -75px;}
+		#title_sh{font-size: 70px;  margin-top: 190px;margin-right: -45px;}
+		#title_st{font-size: 70px;  margin-top: 190px;margin-right: 0px;}
+		#images1{
+			width: 712px;
+			height: 100vh;	
+		}
+		#images2{
+			width: 712px;
+			height: 100vh;	
+		}
+		#images3{
+			width: 712px;
+			height: 100vh;	
+		}
+		
+		.w1{
+			margin: 0 auto;
+			height: 100vh;
+			
+			}
+		.w1f{
+			width: 712px;
+			height: 100vh;
+			}
+		.photo{
+			width: 100%;
+			height: 100vh;
+			}
+		#p1{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p2{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p3{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p4{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p5{
+			margin: 17px auto 0;
+			height: 100vh;
+			
+		}
+		#p6{
+			margin: 17px auto 0;
+			height: 100vh;
+			
+		}
+		#p7{
+			margin: 17px auto 0;
+			height: 100vh;
+			
+		}
+		#p8{
+			margin: 17px auto 0;
+			height: 100vh;
+			
+		}
+		#p9{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p10{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p11{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		#p12{
+			margin: 0 auto;
+			height: 100vh;
+			
+		}
+		
+		.fbut{
+			
+			margin: 50% auto;
+			width: 150px;
+			height: 40px;
+			padding-top: 20px;
+			cursor: pointer;
+			
+		}
+
+		.w2{
+			margin: 0 auto;
+			height: 100vh;
+			
+			}
+		.w3{
+			margin: 0 auto;
+			height: 100vh;
+		
+			}
+		.w4{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w5{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w6{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w7{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w8{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w9{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w10{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w11{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		.w12{
+			margin: 0 auto;
+			height: 100vh;
+			}
+		
+		.dot_slider1, .dot_slider2, .dot_slider3{
+			top:500px;
+			margin-left: 1055px;
+			width: 26px;
+			height: 170px;
+		}
+		.button1,.button2, .button3, .button4, .button5, .button6, .button7, .button8, .button9,.button10,.button11,.button12{
+			width: 15px;
+			height: 15px;
+			margin-top: 15px;
+		}
+		.buttonr{
+			width: 15px;
+			height: 15px;
+			margin-top: 15px;
+		}
+	

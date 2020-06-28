@@ -1,0 +1,210 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>NIKE</title>
+<script src="java/jquery-3.5.1.js"></script>
+<script src="java/preloader.js"></script>
+<link rel="stylesheet" type="text/css" href="style/main_title.css">
+<link href="style/pointer.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" media="screen and (min-width:1200px)" href="style/1200m+.css">
+<link type="text/css" rel="stylesheet" media="screen and (min-width:991px) and (max-width:1199px)" href="style/991-1200m.css">
+<link type="text/css" rel="stylesheet" media="screen and (max-width:990px)" href="style/767-991m.css">
+<link rel="shortcut icon" href="images/logo/icon.ico" type="image/x-icon">
+</head>
+
+<body>
+	<div id="preloader">
+	<div class="loader">
+		<div class="circlel"></div>
+		<div class="circlel"></div>
+		<div class="circlel"></div>
+		<div class="circlel"></div>
+		<div class="circlel"></div>		
+	</div></div>
+	<div class="center">
+		<div class="fixed">
+		<div class="dot_slider right" >
+			<div class="slide">
+			<div class="circle" id="c1" onClick="cir1()"></div>
+			<div class="circle" id="c2" onClick="cir2()"></div>
+			<div class="circle" id="c3" onClick="cir3()"></div>	
+			</div>
+		</div>
+		<a href="index.html"><img id="logo" class="left" src="images/logo/nike-logo.svg" alt="logo"></a>
+			<div class="clear" id="bur"></div>
+			<div class="burgeron" onClick="burgeron()">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+				<div class="burgeroff" onClick="burgeroff()">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			<nav class="left">
+				<ul >
+					<li class="bigmenu"><a href="#">men</a>
+						<ul class="lilmenu">
+							<li><a class="smallm" href="html_doc/top_m.html">top</a></li>
+							<li><a class="smallm" href="html_doc/bottom_m.html">bottom</a></li>
+							<li><a class="smallm" href="html_doc/set_m.html">set</a></li>
+							<li><a class="smallm" href="html_doc/shoes_m.html">shoes</a></li>
+						</ul>
+					</li>
+					<li class="bigmenu"><a href="#">women</a>
+						<ul class="lilmenu">
+							<li><a class="smallm" href="html_doc/top_w.html">top</a></li>
+							<li><a class="smallm" href="html_doc/bottom_w.html">bottom</a></li>
+							<li><a class="smallm" href="html_doc/set_w.html">set</a></li>
+							<li><a class="smallm" href="html_doc/shoes_w.html">shoes</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+	
+<div class="wrapper1"  onClick="arrow1()">
+  		<div class="arrow">
+   			<div class="arrow-body"></div>
+    		<div class="down-arrow-head"></div>
+  		</div>  
+	</div> 
+	<div class="wrapper2" onClick="arrow2()">
+		<div class="arrow">
+			<div class="arrow-body"></div>
+			<div class="down-arrow-head"></div>
+		</div>  
+	</div> 
+	<div class="wrapper3" onClick="arrow3()">
+		<div class="arrow">
+			<div class="arrow-body"></div>
+			<div class="up-arrow-head"></div>
+		</div>  
+	</div></div>
+<div id="ovfl">
+	<div id="big">
+		<div class="main" id="sec1">
+			<div class="clear"></div>	
+			<div class="main_right right">
+				<img class="main_img left" id="fir" src="images/different/main_img.png" alt="main_img">
+				<img class="main_img left" id="sec" src="images/women/set/set_w1.1 — копия.png" alt="main_img">
+			</div>
+			<div class="left_text left">
+				<h2>NIKE COLLABORATION</h2>
+				<p>This art catalog was made featuring a young artist lodei.<br>You can find these clothes on our website</p>
+				<a href="https://www.nike.com/" class="button"><p>Official store</p></a>
+			</div>
+			</div>
+		<div class="main" id="sec2">
+		<div class="clear"></div>
+			<div class="flip1">
+			<img id="main_sec" class="left" src="images/different/main_sec.png" alt="main_sec">
+			<div class="w1f"><div class="photo" id="p1"><a id="wt1" href="html_doc/top_w.html" class="fbut">GO</a></div></div>
+			<img id="main_th" class="right" src="images/different/main_th.png" alt="main_th">
+			</div></div>
+		<div class="main" id="sec3">
+		<div class="clear"></div>
+			<div class="left" id="middle">
+			<div class="frame">	
+				<iframe id="cf6653e7-1e06-4e40-a5f7-9b6bbf441eda" src="https://www.vectary.com/viewer/v1/?model=cf6653e7-1e06-4e40-a5f7-9b6bbf441eda&env=studio3&turntable=5" frameborder="0" ></iframe></div>
+			</div>
+			<div class="right" id="last">
+				<p id="inst">Did you like the artwork?<br>Please, subscribe to lodei</p>
+				<a href="https://www.instagram.com/llod.ei/?hl=ru" class="button"><p>Instagram</p></a>
+				</div>
+			</div>
+<script src="java/pointer.js"></script>
+    <script>
+        init_pointer({
+            
+        });
+		
+		$('.burgeron').show();
+		$('.burgeroff').hide();
+		function burgeron(){
+			$('nav').show();
+			$('.burgeron').hide();
+			$('.burgeroff').show();
+		}
+		function burgeroff(){
+			$('nav').hide();
+			$('.burgeroff').hide();
+			$('.burgeron').show();
+		}
+		
+		
+		$('#sec1').show;
+		$('#sec2').hide;
+		$('#sec3').hide;
+		$('#c1').css('background-color','#000');
+		function arrow1(){
+			$('#big').removeClass().addClass('top');
+			$('#c1').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#F0F0F0');
+			$('#c2').css('background-color','#000');
+			$('.wrapper2').show();
+			$('.wrapper1').hide();
+			$('.wrapper3').hide();
+		}
+		
+		function arrow2(){
+			$('#big').removeClass().addClass('middle');
+			$('#c2').css('background-color','#F0F0F0');
+			$('#c1').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#000');
+			$('.wrapper2').hide();
+			$('.wrapper1').hide();
+			$('.wrapper3').show();
+		}
+		
+		function arrow3(){
+			$('#big').removeClass().addClass('bottom');
+			$('#c2').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#F0F0F0');
+			$('#c1').css('background-color','#000');
+			$('.wrapper3').hide();
+			$('.wrapper2').hide();
+			$('.wrapper1').show();
+		}	
+		function cir1(){
+			$('#big').removeClass().addClass('bottom');
+			$('.wrapper2').show();
+			$('.wrapper1').hide();
+			$('.wrapper3').hide();
+			$('#c2').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#F0F0F0');
+			$('#c1').css('background-color','#000');
+			$('.wrapper3').hide();
+			$('.wrapper2').hide();
+			$('.wrapper1').show();
+		}
+		function cir2(){
+			$('#big').removeClass().addClass('top');
+			$('.wrapper2').show();
+			$('.wrapper1').hide();
+			$('.wrapper3').hide();
+			$('#c1').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#F0F0F0');
+			$('#c2').css('background-color','#000');
+			$('.wrapper1').hide();
+			$('.wrapper3').hide();
+			$('.wrapper2').show();
+		}
+		function cir3(){
+			$('#big').removeClass().addClass('middle');
+			$('.wrapper2').show();
+			$('.wrapper1').hide();
+			$('.wrapper3').hide();
+			$('#c2').css('background-color','#F0F0F0');
+			$('#c1').css('background-color','#F0F0F0');
+			$('#c3').css('background-color','#000');
+			$('.wrapper1').hide();
+			$('.wrapper2').hide();
+			$('.wrapper3').show();
+		}
+		
+    </script>
+
+</body>
+</html>

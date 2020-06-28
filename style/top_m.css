@@ -1,0 +1,136 @@
+/* CSS Document */
+
+		.w1{
+			
+			background: url( "../images/men/top/top_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		
+		.w2{
+			
+			background: url("../images/men/top/top_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w3{
+			
+			background: url("../images/men/top/top_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w4{
+			
+			background: url("../images/men/top/top_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w5{
+			
+			background: url("../images/men/top/top_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w6{
+			
+			background: url("../images/men/top/top_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w7{
+			
+			background: url("../images/men/top/top_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w8{
+			
+			background: url("../images/men/top/top_m2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w9{
+			
+			background: url("../images/men/top/top_m3.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w10{
+			
+			background: url("../images/men/top/top_m3.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w11{
+			
+			background: url("../images/men/top/top_m3.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p1{
+			
+			background: url( "../images/men/top/otop_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		#p2{
+			
+			background: url("../images/men/top/otop_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p3{
+			
+			background: url("../images/men/top/otop_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p4{
+			
+			background: url("../images/men/top/otop_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p5{
+			
+			background: url("../images/men/top/otop_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p6{
+			
+			background: url("../images/men/top/otop_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p7{
+			
+			background: url("../images/men/top/otop_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p8{
+			
+			background: url("../images/men/top/otop_m2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p9{
+			
+			background: url("../images/men/top/otop_m3.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p10{
+			
+			background: url("../images/men/top/otop_m3.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p11{
+			
+			background: url("../images/men/top/otop_m3.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		
+	
+		#circle1{background-color: #63B0DE;}
+		#circle2{background-color: #5DD9CD;}
+		#circle3{background-color: #FF4BB1;}
+		#circle4{background-color: #3960FE;}
+		#circle5{background-color: #F8AE63;}
+		#circle6{background-color: #5EA9F7;}
+		#circle7{background-color: #F85F62;}
+		#circle8{background-color: #AD60F8;}
+		#circle9{background-color: #FFD320;}
+		#circle10{background-color: #FF6028;}
+		#circle11{background-color: #A829FF;}
+
+		#circle1:hover{transform: scale(1.3,1.3)}
+		#circle2:hover{transform: scale(1.3,1.3)}
+		#circle3:hover{transform: scale(1.3,1.3)}
+		#circle4:hover{transform: scale(1.3,1.3)}
+		#circle5:hover{transform: scale(1.3,1.3)}
+		#circle6:hover{transform: scale(1.3,1.3)}
+		#circle7:hover{transform: scale(1.3,1.3)}
+		#circle8:hover{transform: scale(1.3,1.3)}
+		#circle9:hover{transform: scale(1.3,1.3)}
+		#circle10:hover{transform: scale(1.3,1.3)}
+		#circle11:hover{transform: scale(1.3,1.3)}

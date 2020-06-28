@@ -1,0 +1,123 @@
+/* CSS Document */
+		.w1{
+			
+			background: url( "../images/women/top/top_w1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+	
+		#p1{
+			
+			background: url( "../images/women/top/otop_w1.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p2{
+			
+			background: url( "../images/women/top/otop_w1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p3{
+			
+			background: url( "../images/women/top/otop_w1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p4{
+			
+			background: url( "../images/women/top/otop_w1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p5{
+			margin: 17px auto 0;
+			background: url( "../images/women/top/otop_w2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p6{
+			margin: 17px auto 0;
+			background: url( "../images/women/top/otop_w2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p7{
+			margin: 17px auto 0;
+			background: url( "../images/women/top/otop_w2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p8{
+			margin: 17px auto 0;
+			background: url( "../images/women/top/otop_w2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		#p9{
+			
+			background: url( "../images/women/top/otop_w3.png") no-repeat center center;
+			background-size:contain;
+			display: none;
+		}
+		
+		
+		.w2{
+			
+			background: url("../images/women/top/top_w1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w3{
+			
+			background: url("../images/women/top/top_w1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w4{
+			
+			background: url("../images/women/top/top_w1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w5{
+			
+			background: url("../images/women/top/top_w2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w6{
+			
+			background: url("../images/women/top/top_w2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w7{
+			
+			background: url("../images/women/top/top_w2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w8{
+			
+			background: url("../images/women/top/top_w2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w9{
+			
+			background: url("../images/women/top/top_w3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		
+		
+		#circle1{background-color: #F0C0B4;}
+		#circle2{background-color: #58005C;}
+		#circle3{background-color: #B3EDFC;}
+		#circle4{background-color: #25506A;}
+		#circle5{background-color: #CF7CB4;}
+		#circle6{background-color: #9E0B15;}
+		#circle7{background-color: #BB0CAD;}
+		#circle8{background-color: #05BFCC;}
+		#circle9{background-color: #000;}
+
+		#circle1:hover{transform: scale(1.3,1.3)}
+		#circle2:hover{transform: scale(1.3,1.3)}
+		#circle3:hover{transform: scale(1.3,1.3)}
+		#circle4:hover{transform: scale(1.3,1.3)}
+		#circle5:hover{transform: scale(1.3,1.3)}
+		#circle6:hover{transform: scale(1.3,1.3)}
+		#circle7:hover{transform: scale(1.3,1.3)}
+		#circle8:hover{transform: scale(1.3,1.3)}
+		#circle9:hover{transform: scale(1.3,1.3)}

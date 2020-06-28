@@ -1,0 +1,150 @@
+/* CSS Document */
+
+		.w1{
+		
+			background: url("../images/men/shoes/shoes_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		
+		.w2{
+			
+			background: url("../images/men/shoes/shoes_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w3{
+			
+			background: url("../images/men/shoes/shoes_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w4{
+			
+			background: url("../images/men/shoes/shoes_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w5{
+			
+			background: url("../images/men/shoes/shoes_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w6{
+			
+			background: url("../images/men/shoes/shoes_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w7{
+			
+			background: url("../images/men/shoes/shoes_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w8{
+			
+			background: url("../images/men/shoes/shoes_m2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w9{
+			
+			background: url("../images/men/shoes/shoes_m3.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w10{
+			
+			background: url("../images/men/shoes/shoes_m3.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w11{
+			
+			background: url("../images/men/shoes/shoes_m3.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w12{
+			
+			background: url("../images/men/shoes/shoes_m3.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p1{
+			
+			background: url("../images/men/shoes/oshoes_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		#p2{
+			
+			background: url("../images/men/shoes/oshoes_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p3{
+			
+			background: url("../images/men/shoes/oshoes_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p4{
+			
+			background: url("../images/men/shoes/oshoes_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p5{
+			
+			background: url("../images/men/shoes/oshoes_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p6{
+			
+			background: url("../images/men/shoes/oshoes_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p7{
+			
+			background: url("../images/men/shoes/oshoes_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p8{
+			
+			background: url("../images/men/shoes/oshoes_m2.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p9{
+			
+			background: url("../images/men/shoes/oshoes_m3.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p10{
+			
+			background: url("../images/men/shoes/oshoes_m3.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p11{
+			
+			background: url("../images/men/shoes/oshoes_m3.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p12{
+			
+			background: url("../images/men/shoes/oshoes_m3.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		
+		
+		#circle1{background-color: #C40663;}
+		#circle2{background-color: #076BBA;}
+		#circle3{background-color: #05A9AF;}
+		#circle4{background-color: #3506B9;}
+		#circle5{background-color: #E98B6C;}
+		#circle6{background-color: #6ECAEA;}
+		#circle7{background-color: #FB4B65;}
+		#circle8{background-color: #5E5AFF;}
+		#circle9{background-color: #FC8613;}
+		#circle10{background-color: #117FFC;}
+		#circle11{background-color: #F92012;}
+		#circle12{background-color: #18F7E5;}
+
+
+		#circle1:hover{transform: scale(1.3,1.3)}
+		#circle2:hover{transform: scale(1.3,1.3)}
+		#circle3:hover{transform: scale(1.3,1.3)}
+		#circle4:hover{transform: scale(1.3,1.3)}
+		#circle5:hover{transform: scale(1.3,1.3)}
+		#circle6:hover{transform: scale(1.3,1.3)}
+		#circle7:hover{transform: scale(1.3,1.3)}
+		#circle8:hover{transform: scale(1.3,1.3)}
+		#circle9:hover{transform: scale(1.3,1.3)}
+		#circle10:hover{transform: scale(1.3,1.3)}
+		#circle11:hover{transform: scale(1.3,1.3)}
+		#circle12:hover{transform: scale(1.3,1.3)}
+

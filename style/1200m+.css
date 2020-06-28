@@ -1,0 +1,120 @@
+/* CSS Document */
+		header{padding-top: 30px;}
+#sec{display: none;}
+		.fixed{ width: 1100px;margin-top: 30px;}
+		#logo{width: 70px; height: 100%; margin: 5px 0 0;}
+		#store{ font-size: 17px; }
+		#store p{cursor: pointer;}
+#big{
+	width:1100px;
+	height: 300vh;
+}
+#bur{display: none;}
+		nav ul .bigmenu{
+			box-shadow: -3px -3px 5px rgba(255,255,255,1.00), 3px 3px 5px rgba(116,147,181,0.30);
+			}
+nav {width: 250px; margin-left: 69px; display: block;}
+		nav ul .bigmenu{
+			float: left;
+			background-color: #F0F0F0;
+			margin-left: 16px; 
+			width: 85px; 
+			height: 40px;}
+		nav ul .bigmenu a{
+			font-size: 20px;
+			font-weight: 700;
+			transform: translate(0, 20%);
+			}
+		nav ul .bigmenu:hover{box-shadow:inset -3px -3px 5px rgba(255,255,255,1.00),inset 3px 3px 5px rgba(116,147,181,0.30);}
+		.lilmenu{
+			display: none;
+		background-color:#F0F0F0;
+		margin-top: 15px;
+		width: 85px;
+		height: 170px;
+		box-shadow: inset -3px -3px 5px rgba(255,255,255,1.00), inset 3px 3px 5px rgba(116,147,181,0.30);}
+		.lilmenu li .smallm{
+			color: rgba(0,0,0,1.00);
+			
+			padding-left:10px;
+			height: 35px;
+			padding-top: 5px
+		}
+		.bigmenu:hover .lilmenu{display: block;}
+		.smallm:hover {box-shadow: -3px -3px 5px rgba(255,255,255,1.00), 3px 3px 5px rgba(116,147,181,0.30);}
+		.wrapper1{
+			width: 10px;
+			top: 705px;
+			margin-left:1090px;}
+		.wrapper2{	
+			width: 10px;
+			top: 705px;
+			margin-left:1090px;}
+		.wrapper3{	
+			width: 10px;
+			top: 705px;
+			margin-left:1090px;}
+		.center{width: 1100px;}
+		.main{
+			width: 100%;
+			height: 100vh;	
+		}
+.left_text{
+	margin-top: 370px;
+	width:495px;
+	min-height:100px;}
+h2{font-size: 43px; font-weight: 800;}
+p{margin-top: 40px; font-size: 43px; font-weight: 800;}
+.button{
+	width: 240px;
+	height: 80px;}
+.button p{	
+	font-size: 30px;
+	transform: translate(0, 50%);
+	font-weight: 600;}
+.main_right{
+	width:494px;
+}
+.main_img{
+	margin-left: -40px;
+	margin-top: 50px;
+	width: 450px; 
+	height:100%;}
+.dot_slider{
+	margin-left:1084px;
+	margin-top: 350px;
+	width:20px;}
+.dot_slider .circle{
+	width:20px;
+	height:20px;
+	margin-bottom: 10px;}
+#main_sec{margin-top: 20%;}
+.flip1, .w1f{
+		margin-top: 22%;
+		width: 495px;
+		height: 627px;}
+#p1{
+			width: 495px;
+			height: 627px;
+			margin: 0 auto;
+			
+		}
+.fbut{
+			
+			margin: 50% auto;
+			width: 150px;
+			height: 40px;
+			padding: 10px;
+			cursor: pointer;
+			
+		}
+#main_th{width:400px; margin-left: 450px;}
+#nike_lil{
+	margin-top: 50px;
+	transform: translate(0,60%);}
+.five_main{width:500px;}
+#middle{width: 50%; margin-top: 150px;}
+#inst{width: 90%;margin-top: 183px;}
+iframe {margin-top: 30%;}
+#last{width: 40%; margin-top: 14%;margin-right: 30px;}
+		

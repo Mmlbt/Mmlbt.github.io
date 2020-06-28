@@ -1,0 +1,100 @@
+/* CSS Document */
+
+		.w1{
+			
+			background: url("../images/men/set/set_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		
+		.w2{
+			
+			background: url("../images/men/set/set_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w3{
+			
+			background: url("../images/men/set/set_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w4{
+			
+			background: url("../images/men/set/set_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w5{
+			
+			background: url("../images/men/set/set_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w6{
+			
+			background: url("../images/men/set/set_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w7{
+			
+			background: url("../images/men/set/set_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		.w9{
+			
+			background: url("../images/men/set/set_m3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p1{
+			
+			background: url("../images/men/set/oset_m1.1.png") no-repeat center center;
+			background-size:contain;display: none;}
+		#p2{
+			
+			background: url("../images/men/set/oset_m1.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p3{
+			
+			background: url("../images/men/set/oset_m1.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p4{
+			
+			background: url("../images/men/set/oset_m1.4.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p5{
+			
+			background: url("../images/men/set/oset_m2.1.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p6{
+			
+			background: url("../images/men/set/oset_m2.2.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p7{
+			
+			background: url("../images/men/set/oset_m2.3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		#p9{
+			
+			background: url("../images/men/set/oset_m3.png") no-repeat center center;
+			background-size:contain;
+			display: none;}
+		
+		#circle1{background-color: #BF5EFF;}
+		#circle2{background-color: #FF63C1;}
+		#circle3{background-color: #FFA064;}
+		#circle4{background-color: #63ABFF;}
+		#circle5{background-color: #BEB4FF;}
+		#circle6{background-color: #FFB3EC;}
+		#circle7{background-color: #B3CDFF;}
+		#circle9{background-color: #000;}
+
+
+		#circle1:hover{transform: scale(1.3,1.3)}
+		#circle2:hover{transform: scale(1.3,1.3)}
+		#circle3:hover{transform: scale(1.3,1.3)}
+		#circle4:hover{transform: scale(1.3,1.3)}
+		#circle5:hover{transform: scale(1.3,1.3)}
+		#circle6:hover{transform: scale(1.3,1.3)}
+		#circle7:hover{transform: scale(1.3,1.3)}
+		#circle9:hover{transform: scale(1.3,1.3)}
